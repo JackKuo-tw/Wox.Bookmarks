@@ -1,0 +1,12 @@
+{
+    "ID": "09bc3c4a058b48caad5d128a448ddd58",
+    "ActionKeyword": "b",
+    "Name": "Edge Bookmarks",
+    "Description": "Search and open Microsoft Edge bookmarks",
+    "Author": "Jack Kuo",
+    "Version": "1.0",
+    "Language": "python",
+    "Website": "https://jackkuo.org",
+    "IcoPath": "Images\\app.png",
+    "ExecuteFileName": "main.py"
+}
